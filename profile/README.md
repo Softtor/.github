@@ -12,8 +12,8 @@ A Softtor é uma software house especializada no desenvolvimento de sistemas sob
 - **Outsourcing:** Alocação de profissionais qualificados para integrar equipes de desenvolvimento.
 
 ## Nossa Stack Tecnológica
-- **Backend:** PHP, Laravel
-- **Frontend:** Vue.js, React.js, Node.js
+- **Backend:** PHP, Laravel, Node.js
+- **Frontend:** Vue.js, React.js,
 - **Bancos de Dados:** PostgreSQL, MySQL, MariaDB, Firebird
 - **Web:** HTML, CSS, JavaScript, TypeScript
 - **DevOps:** AWS, Docker
